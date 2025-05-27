@@ -10,8 +10,8 @@ describe('Controller de Usuários', () => {
         respostaEsperada = [
             {
                 id: 10,
-                nome: 'João Carlos',
-                email: 'email@teste.com'
+                nome: 'Nathan Brandão',
+                email: 'teste@teste.com'
             }
         ]
     })
